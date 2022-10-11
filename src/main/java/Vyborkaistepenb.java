@@ -17,4 +17,5 @@ public class Vyborkaistepenb {
 //for (int i = 0; i < charArray.length; i++) {
 //        int c = Character.getNumericValue(charArray[i]);
 //        System.out.print(c * c);
-
+//
+//
